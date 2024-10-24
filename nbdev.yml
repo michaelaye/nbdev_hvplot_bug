@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hvplot_bug"
+  site-url: "https://{user}.github.io/nbdev_hvplot_bug/"
+  description: "{description}"
+  repo-branch: main
+  repo-url: "https://github.com/{user}/nbdev_hvplot_bug/"
